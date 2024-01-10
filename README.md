@@ -32,7 +32,6 @@ This sarcasm detection project contributes to advancements in sentiment analysis
    - Deploy the sarcasm detection system for real-time or batch processing of textual data.
 
 <hr/>
-<hr/>
 
 ### Prerequisites
 
