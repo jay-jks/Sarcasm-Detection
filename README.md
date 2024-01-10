@@ -1,4 +1,3 @@
-# Sarcasm Detection with BERT and LSTM
 
 ## Overview
 
